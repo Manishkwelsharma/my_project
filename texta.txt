@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 sdfdffrfddsddsda
+=======
+>>>>>>> parent of fd5de2d (c1)
